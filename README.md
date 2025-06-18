@@ -1,6 +1,6 @@
 # 🗺️ Expo Maps Demo
 
-Aplicación de demostración que integra **Google Maps** en React Native usando la librería [`expo-maps`](https://docs.expo.dev/versions/latest/sdk/maps/). Incluye marcadores interactivos, polilíneas, controles de cámara y eventos personalizados.
+Aplicación de demostración que integra **Google Maps** en React Native usando la librería Expo maps para android. Incluye marcadores interactivos, polilíneas, controles de cámara y eventos personalizados.
 
 ## ✨ Características
 
